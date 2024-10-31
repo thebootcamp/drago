@@ -1,8 +1,13 @@
 .env
-.venv
 venv
+.venv
+*/models/*
+models
+*.tar.gz
+*.zip
+*.bak
+*.backup
+*backup*
 node_modules
 */node_modules
-*.bak
-*backup*
 
